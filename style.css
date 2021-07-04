@@ -58,3 +58,19 @@ button{
     color: white;
     background-color: rgb(255, 84, 42);
 }
+.product-item-list{
+    display: flex;
+    width: 90%;
+    
+
+
+}
+.img-responsible{
+    max-width: 100%;
+}
+.item-list{
+    width: 33%;
+    margin-left: 5%;
+    margin-top: 22px;
+
+}
